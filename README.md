@@ -23,7 +23,7 @@ Para visualizar o projeto localmente, siga as instruções abaixo:
 ### Passos
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/JBechaire/portifolio-html.git
     ```
 2. Abra o projeto no Visual Studio Code:
     ```bash
